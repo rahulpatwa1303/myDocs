@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 remote_theme: minimal
+
 This document compares two approaches to protecting routes in Next.js: using Higher-Order Components (HOCs) and an App Wrapper.
 
 ## Comparison Table
