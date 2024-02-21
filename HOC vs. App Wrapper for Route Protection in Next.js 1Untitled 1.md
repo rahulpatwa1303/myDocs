@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 remote_theme: minimal
-# HOC vs. App Wrapper for Route Protection in Next.js 1Untitled 1
+# HOC vs. App Wrapper for Route Protection in Next.js
 
 This document compares two approaches to protecting routes in Next.js: using Higher-Order Components (HOCs) and an App Wrapper.
 
