@@ -1,4 +1,4 @@
-title: Cayman theme
-description: Testing my site pages
+title: Using HOC for auth
+description: This is short comparison between using HOC for auth and Wrapper for auth.  
 show_download: true
 theme: jekyll-theme-minimal
